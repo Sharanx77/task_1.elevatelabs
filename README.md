@@ -24,5 +24,5 @@
 [cite_start]**Institution**: Ballari Institute of Technology and Management [cite: 12]
 
 ## Project Links
-- **GitHub Repository**: [https://github.com/Sharanx77/your-repo-name](https://github.com/Sharanx77/your-repo-name)
-- **Live Demo**: [https://sharanx77.github.io/your-repo-name/](https://sharanx77.github.io/your-repo-name/) (If GitHub Pages is enabled)
+- **GitHub Repository**: [https://github.com/Sharanx77/your-repo-name](https://github.com/Sharanx77/task_1.elevatelabs.git)
+- **Live Demo**: [https://sharanx77.github.io/your-repo-name/](https://sharanx77.github.io/task_1.elevatelabs.git) (If GitHub Pages is enabled)
