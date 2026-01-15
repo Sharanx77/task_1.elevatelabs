@@ -1,28 +1,30 @@
-# Internship Task 1: Semantic HTML Personal Profile Page
-
-## Overview
-[cite_start]This repository contains my submission for Task 1 of the **Elevate Labs Web Development Internship**[cite: 3]. [cite_start]The objective was to build a personal profile page that demonstrates mastery of semantic HTML, accessibility, and clean document structure[cite: 18, 19].
-
-## Deliverables Met
-- [cite_start]**Semantic Structure**: I utilized `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, and `<footer>` to provide a logical hierarchy.
-- [cite_start]**Accessibility**: All images include descriptive `alt` attributes, and headings follow a logical order[cite: 13, 18].
-- [cite_start]**Internal Navigation**: The navigation bar uses anchor links (`#`) to jump to specific sections on the same page.
-- [cite_start]**Documentation**: Comments are included in the HTML to explain the choice of semantic tags over generic containers.
-
-## Self-Research & AI Collaboration
-[cite_start]In accordance with the "Self-Research Allowed" policy[cite: 29, 30], I used **Gemini (AI)** as a thought partner to:
-1. Refine the CSS layout for a more professional "Internship-ready" appearance.
-2. Review my HTML structure to ensure maximum compliance with semantic standards.
-3. Help draft this documentation to clearly communicate my technical choices.
-
-## How to Run
-1. Ensure `index.html` and the profile image are in the same folder.
-2. [cite_start]Open `index.html` in any modern browser[cite: 5].
-
----
-**Author**: B Sharana Basava  
-[cite_start]**Institution**: Ballari Institute of Technology and Management [cite: 12]
+# Task 1: Semantic HTML Personal Profile Page
 
 ## Project Links
-- **GitHub Repository**: [https://github.com/Sharanx77/task_1.elevatelabs.git](https://github.com/Sharanx77/task_1.elevatelabs)
-- **Live Demo**: [https://sharanx77.github.io/task_1.elevatelabs.git/](https://sharanx77.github.io/task_1.elevatelabs/) (If GitHub Pages is enabled)
+- **GitHub Repository**: [https://github.com/Sharanx77/task_1.elevatelabs](https://github.com/Sharanx77/task_1.elevatelabs)
+- **Live Demo**: [https://sharanx77.github.io/task_1.elevatelabs/](https://sharanx77.github.io/task_1.elevatelabs/)
+
+## Project Overview
+[cite_start]This project is a personal profile webpage developed for the Elevate Labs Web Development Internship[cite: 2, 3]. [cite_start]The objective was to build a fully semantic, accessible webpage that follows modern industry standards for document structure and clean code[cite: 18, 19].
+
+## Deliverables & Features
+In alignment with the internship task guidelines:
+- [cite_start]**Semantic HTML**: Utilized logical elements such as `<header>`, `<nav>`, `<section>`, `<article>`, and `<footer>` to divide content and improve accessibility.
+- [cite_start]**Internal Navigation**: Implemented anchor links in the navigation bar to allow smooth jumping to specific sections of the profile.
+- [cite_start]**Accessibility**: Included a profile image with descriptive `alt` attributes to follow best practices for screen readers[cite: 13].
+- [cite_start]**Technical Structure**: Manually wrote the HTML boilerplate (DOCTYPE, html, head, body) to ensure a strong understanding of how browsers interpret document structure[cite: 10, 22].
+- [cite_start]**Clean Code**: Added descriptive comments throughout the code to explain why specific semantic elements were used instead of generic containers[cite: 16].
+
+## Technical Toolkit
+- [cite_start]**Primary Editor**: Visual Studio Code[cite: 5].
+- [cite_start]**Browser Testing**: Chrome, Edge, and Firefox to ensure consistent rendering[cite: 5, 15].
+
+## Self-Research & AI Disclosure
+[cite_start]As per the guideline allowing self-research and tutorials:
+- I collaborated with **Gemini (AI)** as a technical thought partner to optimize the CSS layout and refine the semantic hierarchy.
+- This process helped me focus on building a professional, "internship-ready" engineering aesthetic while ensuring all code remains fully compliant with the task's semantic requirements.
+
+---
+**Submitted by**: B Sharana Basava
+[cite_start]**Department**: Electronics and Communication Engineering [cite: 12]
+[cite_start]**Institution**: Ballari Institute of Technology and Management [cite: 12]
